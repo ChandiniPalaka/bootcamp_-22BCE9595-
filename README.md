@@ -1,6 +1,7 @@
 # bootcamp_-22BCE9595-
 # Creating A ChatBot Using Conditional Statements and loops!
 
+
 a = input("Hey! What's your name : ")
 def chatbot():
     print("YO!"+a+" I'm your ChatBot")
@@ -31,5 +32,4 @@ def chatbot():
         else:
             print("Chatbot: I didn't understand that. Can you ask something else?")
 
-# Run the chatbot
 chatbot()
